@@ -36,7 +36,7 @@ public class Main {
             }
             else
                 flag = 0;
-            System.out.println("wrong action");
+            System.out.println("Exit");
         }
     }
 }
